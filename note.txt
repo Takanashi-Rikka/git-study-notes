@@ -1,0 +1,5 @@
+1.pwd:显示当前路径
+2.git congfig --globol user.name "你的名字":创建你的账号
+git init :创建版本库(告诉git在哪里安家.前提条件:需要进入准备创建库的目录)
+git add filename filename2:把添加\改变的文件放到台面上
+git commit - "修改的信息":把修改的文件正式放到仓库中
