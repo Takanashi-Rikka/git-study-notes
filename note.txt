@@ -4,3 +4,10 @@ git init :创建版本库(告诉git在哪里安家.前提条件:需要进入准�
 git add filename filename2:把添加\改变的文件放到台面上
 git commit - "修改的信息":把修改的文件正式放到仓库中
 cd:进入目录
+git status :用来检测当前版本和仓库版本是否一致
+git diff:用来显示哪些不一样
+git log :显示用户修改信息
+git log --pretty=oneline :美化git log信息
+git reset --hard "十六进制文件名"更改需要的 版本
+
+栗山未来是我老婆  啦啦啦阿里好几款 卡萨丁as阿飞三公司阿妈啊
